@@ -1,1 +1,26 @@
+print('Welcome to Madlibs')
+family_name= input('Enter a name: ')
+noun_1= input('Enter a noun: ')
+name_1= input('A boy\'s name:')
+name_2= input('A girl\'s name:')
+name_3= input('A boy\'s name:')
+name_4= input('A girl\'s name:')
+food= input('The name of your best meal: ')
+noun_2= input('A noun: ')
+adj_1= input('An adjective: ')
+noun_3= input('Another noun: ')
+num_1= input('A number: ')
+verb_1= input('A verb: ')
+body= input('A body part: ')
+verb_2= input('Another verb: ')
+equipment= input('A gym equipment: ')
+verb_3= input('Another verb: ')
+adj_2= input('An adjective: ')
+restuarant= input('Name of a restaurant: ')
+num_2= input('Another number: ')
+
+print(' ')
+
+print(f'One day, the {family_name}s, Mr. and Mrs. {family_name}, and their 4 {noun_1}, {name_1}, {name_2}, {name_3} and {name_4} were having {food} and Mrs. {family_name} said, "We need to {verb_1} some weight." "{noun_2}!," said Mr. {family_name}, "We\'re {adj_1} the way we are". "It says here in the paper that at the {noun_3} Gym your first {num_1} lessons are free. Why don\'t we try it?" said Mrs. {family_name}.\n"But Muuuuuuuum." said the children. "No!" said Mrs. {family_name}, "We have to {verb_1} some weight, so first thing tomorrow morning we\'ll {verb_2} for the gym and work on our {body}"\nThe next morning Mrs. {family_name} woke up the family and they all got {verb_2} and {verb_3} for the gym (all moaning). When they got there, there was a long queue of people in tracksuits waiting for the doors to open. Finally they went in. Mr. and Mrs. {family_name} went on the {equipment} and the kids all went off to the kiddy gym.\nAfter about {num_2} minutes they gave up and went to {restuarant} instead. "I guess the {family_name} are just meant to be {adj_2}," said Mrs. {family_name}. They all agreed.')
+
 # Write your mad libs program here
